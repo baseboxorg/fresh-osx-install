@@ -1,25 +1,55 @@
 homebrew:
     taps:
         - homebrew/dupes
+        - phinze/homebrew-cask
         - homebrew/versions
-        - caskroom/cask
 
     packages:
         - git
-        - vim
+        - git-flow
         - brew-cask
+        - gh
+        - tree
+        - vim
         - wget
         - zsh
         - ruby
         - ctags
         - tmux
-
+        - xz
+        - docker
+        - rename
+        
     casks:
         - firefox
+        - xquartz
         - dropbox
-        - iterm2
+        - java
+        - flash-player
+        - google-drive
+        - iterm2-beta
+        - caffeine
+        - onyx
+        - the-unarchiver
+        - vlc
+        - tunnelblick-beta
+        - font-source-code-pro
         - google-chrome
+        - chromium
+        - sublime-text3
+        - coda
+        - atom
+        - cyberduck
         - appcleaner
         - time-out
         - selfcontrol
+        - virtualbox
+        - vmware-fusion
+        - vagrant
         - isolator
+        - yorufukurou
+        - google-chrome-canary
+        - mou
+        - osxfuse
+        - vessel
+        - miro
