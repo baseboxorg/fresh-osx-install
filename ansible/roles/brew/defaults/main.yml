@@ -1,8 +1,8 @@
 homebrew:
     taps:
         - homebrew/dupes
-        - phinze/homebrew-cask
         - homebrew/versions
+        - phinze/homebrew-cask
 
     packages:
         - git
