@@ -1,4 +1,4 @@
 
 dotfiles:
-    repo: https://github.com/codeinabox/dotfiles.git
-    path: ~/dotfiles
+    repo: https://github.com/fhint/dotfiles
+    path: ~/workspace/osx/dotfiles
