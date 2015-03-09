@@ -2,13 +2,17 @@ homebrew:
     taps:
         - homebrew/dupes
         - homebrew/versions
-        - phinze/homebrew-cask
+        - homebrew/binary
+        - homebrew/completions
+        - caskroom/cask
+        - caskroom/versions
 
     packages:
         - git
         - git-flow
         - brew-cask
         - gh
+        - hub
         - tree
         - vim
         - wget
@@ -36,6 +40,7 @@ homebrew:
         - sublime-text3
         - coda
         - atom
+        - brackets
         - cyberduck
         - appcleaner
         - virtualbox
@@ -46,4 +51,6 @@ homebrew:
         - mou
         - osxfuse
         - transmit
+        - github
+        - sourcetree
 
