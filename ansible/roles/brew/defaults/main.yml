@@ -21,7 +21,6 @@ homebrew:
         - rename
         
     casks:
-        - firefox
         - xquartz
         - dropbox
         - java
@@ -29,27 +28,22 @@ homebrew:
         - google-drive
         - iterm2-beta
         - caffeine
-        - onyx
         - the-unarchiver
-        - vlc
+        - vlc-nightly
         - tunnelblick-beta
         - font-source-code-pro
         - google-chrome
-        - chromium
         - sublime-text3
         - coda
         - atom
         - cyberduck
         - appcleaner
-        - time-out
-        - selfcontrol
         - virtualbox
         - vmware-fusion
         - vagrant
         - isolator
         - yorufukurou
-        - google-chrome-canary
         - mou
         - osxfuse
-        - vessel
-        - miro
+        - transmit
+
